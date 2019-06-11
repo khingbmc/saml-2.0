@@ -1,0 +1,4 @@
+[console_scripts]
+fmtstr_pattern_create = formatstring.pattern_create:main
+fmtstr_pattern_offset = formatstring.pattern_offset:main
+
